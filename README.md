@@ -10,7 +10,7 @@ npm run dev
 yarn dev                  
 # or     test     
 pnpm dev       
-# or         
+# or          
 bun dev  
 ```   
     
