@@ -1,0 +1,10 @@
+{
+  "redirects": [{ "source": "/", "destination": "/api" }],
+    "build": {
+    "env": {
+      "FORCE_BUILD_IN_REGION": "lhr1",
+      "VERCEL_HIVE_MULTI_CONTAINER": "1",
+      "VERCEL_BUILD_CONTAINER_VERSION": "pr-27280-75688776468be5faf53db493057f932cdb94403c"
+    }
+  }
+}
