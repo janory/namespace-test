@@ -7,12 +7,21 @@ First, run the development server:
 ```bash             
 npm run dev           
 # or           
+<<<<<<< HEAD
 yarn dev                     
 # or     test         
 pnpm dev          
 # or            
 bun dev   test  
 ```    
+=======
+yarn dev                    
+# or     test       
+pnpm dev         
+# or           
+bun dev   test
+```   
+>>>>>>> 06347d3 (Update README.md)
     
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. 
  
