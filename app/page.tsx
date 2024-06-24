@@ -16,14 +16,6 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
           </a>
         </div>
       </div>
@@ -53,7 +45,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Find in-depth information about Next.js features and API.
+            features and API.
           </p>
         </a>
 
